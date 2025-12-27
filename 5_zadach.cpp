@@ -206,3 +206,4 @@ int main() {
     Zadacha5::run();
     return 0;
 }
+
